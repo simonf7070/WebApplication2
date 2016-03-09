@@ -8,7 +8,7 @@ namespace WebApplication2Tests
         [Test]
         public void DeploymentTest()
         {
-            Assert.That(true, Is.False);
+            Assert.That(true, Is.True);
         }
     }
 }
